@@ -1,5 +1,11 @@
 # Enterprise WebSocket-Driven Workflow Engine
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![React](https://img.shields.io/badge/React-19-blue)
+![Vite](https://img.shields.io/badge/Vite-8-purple)
+![WebSocket](https://img.shields.io/badge/WebSocket-Live_Stream-emerald)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 An enterprise-grade, stateful React 18 operations dashboard interfacing directly with a live WebSocket broadcast stream to manage verification workflows, live queues, and operational matrices in real time.
 
 ---
